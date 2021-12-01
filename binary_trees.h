@@ -1,6 +1,3 @@
-#ifndef __BINARY_TREES_H__
-#define __BINARY_TREES_H__
-
 #ifndef BINARY_TREES_H
 #define BINARY_TREES_H
 
